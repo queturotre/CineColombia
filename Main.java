@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+    public static void main (String [] args){
         Scanner miguel = new Scanner(System.in); // Lector
         char[][] a = new char [9][9]; // La sala de cine es una matriz.
         int b = 0; // Filas.
